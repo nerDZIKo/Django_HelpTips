@@ -1,1 +1,2 @@
 https://stackoverflow.com/questions/41441832/django-core-exceptions-improperlyconfigured-wsgi-application-application-coul
+> pip install whitenoise > add to the MIDDLEWARE
