@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/32044489/django-static-js-files-not-working
+STATIC_ROOT = os.path.join(BASE_DIR, 'productionfiles') <-- Solution
+# STATIC_ROOT = BASE_DIR / 'productionfiles' #production static files! python3 manage.py collectstatic productionfiles
